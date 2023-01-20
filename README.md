@@ -1,2 +1,2 @@
-# CNC-Milling-Tool
-CNC Milling Tool Project (Tool Wear Detection)
+# CNC Milling Tool (Tool Wear Detection)
+CNC Milling Tool Project 
